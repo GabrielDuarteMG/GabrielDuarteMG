@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello Stranger 👋
 
-<!--
-**GabrielDuarteMG/GabrielDuarteMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### I'm Gabriel Duarte, 21 years, Software Engineer Development Senior, i'm living in Uberlândia - Minas Gerais / Brazil, Studying information systems in Pitagoras powered. 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I Have one dog, it is my love forever, it's called Zoe ❤️🐶
+
+### I'm development Browsers Applications, Desktops Apps and Websites. 💻
+
+### Specialist in Javascript and NodeJS. 👨‍💻
+
+### Experience with Java, .Net and PHP. ⏱️
+
+# This is my life 😄 ❤️ 
