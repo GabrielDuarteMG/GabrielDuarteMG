@@ -2,7 +2,7 @@
 
 ---
 
-### I'm Gabriel Duarte, 21 years, Software Engineer Development Senior 💼
+### I'm Gabriel Duarte, 23 years, Software Engineer Development Senior 💼
 ### I'm living in Uberlândia - Minas Gerais / Brazil 📍 
 ### Studying information systems in Pitagoras powered. 📚
 
