@@ -17,7 +17,6 @@ Olá! Sou o **Gabriel Duarte**, um desenvolvedor apaixonado por transformar idei
 - **Outros:**  
   - 🔄 Integrações com APIs Restful  
   - 📋 Gestão Ágil com Jira (SCRUM)
-  - 
 ---
 
 ### 🏆 **Destaques da Carreira**  
