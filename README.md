@@ -1,40 +1,43 @@
-# 👨‍💻 Gabriel Duarte  
+---
 
-## 🌟 **Fullstack Developer | React | Node.js | Java Spring**  
+# 👨‍💻 Gabriel Duarte
 
-Olá! Sou o **Gabriel Duarte**, um desenvolvedor apaixonado por transformar ideias em soluções digitais incríveis! 🚀 Tenho experiência em desenvolvimento de ponta a ponta, utilizando tecnologias modernas e metodologias ágeis.  
+## 🌟 **Fullstack Developer | React | Node.js | Java Spring**
 
-### 🛠️ **Habilidades Técnicas**  
-- **Linguagens & Frameworks:**  
+Hello! I’m **Gabriel Duarte**, a passionate developer who loves turning ideas into amazing digital solutions! 🚀 I have end-to-end development experience, using modern technologies and agile methodologies.
+
+### 🛠️ **Technical Skills**  
+- **Languages & Frameworks:**  
   - 🖥️ Java (Spring, JSF, Hibernate)  
   - 🌐 JavaScript (Vanilla, Node.js, TypeScript)  
-  - ⚛️ React , Angular, Javascript, Next.js, Electron.js  
+  - ⚛️ React, Angular, JavaScript, Next.js, Electron.js  
 - **Cloud & DevOps:**  
   - ☁️ Openshift, AWS, Azure  
-  - ⚙️ CI/CD com Pipelines no Bitbucket e GitHub  
-- **Bancos de Dados:**  
+  - ⚙️ CI/CD with Pipelines in Bitbucket and GitHub  
+- **Databases:**  
   - 🗄️ SQL Server, PostgreSQL, MySQL, Oracle (PL/SQL), MariaDB, SQLite  
-- **Outros:**  
-  - 🔄 Integrações com APIs Restful  
-  - 📋 Gestão Ágil com Jira (SCRUM)
----
-
-### 🏆 **Destaques da Carreira**  
-- 🎯 Entreguei aplicações frontend de alto impacto na **NTT DATA**, usando Angular e React.  
-- 🔧 Reestruturei sistemas na **SIS Soluções**, otimizando processos.  
-- 📈 Desenvolvi soluções para setores críticos como saúde, logística e finanças, com foco em resultados escaláveis e performáticos.  
+- **Other:**  
+  - 🔄 RESTful API Integrations  
+  - 📋 Agile Project Management with Jira (SCRUM)  
 
 ---
 
-### 📚 **Formação Acadêmica**  
-- 🎓 **Bacharel em Sistemas de Informação** – Faculdade Pitágoras  
-- 🎓 **Pós-graduação em Engenharia de Software** – UNOPAR  
-- 🎓 **Pós-graduação em Arquitetura Cloud Computing** – UNOPAR  
+### 🏆 **Career Highlights**  
+- 🎯 Delivered high-impact frontend applications at **NTT DATA**, using Angular and React.  
+- 🔧 Restructured systems at **SIS Soluções**, optimizing processes.  
+- 📈 Developed solutions for critical sectors such as healthcare, logistics, and finance, focusing on scalable and high-performance results.  
 
 ---
 
-### 📬 **Contato**  
+### 📚 **Education**  
+- 🎓 **Bachelor’s Degree in Information Systems** – Faculdade Pitágoras  
+- 🎓 **Postgraduate in Software Engineering** – UNOPAR  
+- 🎓 **Postgraduate in Cloud Computing Architecture** – UNOPAR  
+
+---
+
+### 📬 **Contact**  
 📧 Email: [gabriel160499@gmail.com](mailto:gabriel160499@gmail.com)  
-🌐 LinkedIn: [Gabriel Duarte](https://www.linkedin.com/in/gabriel-duarte-482b3861)  
+🌐 LinkedIn: [Gabriel Duarte](https://www.linkedin.com/in/gabriel-duarte-482b3861)
 
-
+--- 
