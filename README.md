@@ -1,7 +1,7 @@
 ---
 
-# 👨‍💻 Gabriel Duarte
-
+# 👨‍💻 Gabriel Duarte 
+[![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30352)](https://codetime.dev)
 ## 🌟 **Fullstack Developer | React | Node.js | Java Spring**
 
 Hello! I’m **Gabriel Duarte**, a passionate developer who loves turning ideas into amazing digital solutions! 🚀 I have end-to-end development experience, using modern technologies and agile methodologies.
